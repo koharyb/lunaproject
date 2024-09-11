@@ -6,6 +6,10 @@ module.exports = {
       fontFamily: {
         "ibm-plex-mono": ['"IBM Plex Mono"', "monospace"],
       },
+
+      colors: {
+        "custom-green" : "#27a121",
+      },
     },
   },
   plugins: [],
