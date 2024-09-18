@@ -705,51 +705,11 @@ video {
 }
 
 @media (min-width: 768px) {
-  .md\:m-auto {
-    margin: auto;
+  .md\:ml-\[15vh\] {
+    margin-left: 15vh;
   }
 
   .md\:mr-auto {
     margin-right: auto;
-  }
-
-  .md\:ml-auto {
-    margin-left: auto;
-  }
-
-  .md\:ml-0 {
-    margin-left: 0px;
-  }
-
-  .md\:ml-2 {
-    margin-left: 0.5rem;
-  }
-
-  .md\:ml-10 {
-    margin-left: 2.5rem;
-  }
-
-  .md\:ml-12 {
-    margin-left: 3rem;
-  }
-
-  .md\:ml-\[\] {
-    margin-left: ;
-  }
-
-  .md\:ml-\[12vh\] {
-    margin-left: 12vh;
-  }
-
-  .md\:ml-\[1\] {
-    margin-left: 1;
-  }
-
-  .md\:ml-\[10vh\] {
-    margin-left: 10vh;
-  }
-
-  .md\:ml-\[15vh\] {
-    margin-left: 15vh;
   }
 }
