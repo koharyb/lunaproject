@@ -678,6 +678,11 @@ video {
   color: rgb(44 68 146 / var(--tw-text-opacity));
 }
 
+.text-\[\#b4a827\] {
+  --tw-text-opacity: 1;
+  color: rgb(180 168 39 / var(--tw-text-opacity));
+}
+
 .text-custom-green {
   --tw-text-opacity: 1;
   color: rgb(39 161 33 / var(--tw-text-opacity));
