@@ -668,6 +668,11 @@ video {
   font-weight: 700;
 }
 
+.text-\[\#1aa2a2\] {
+  --tw-text-opacity: 1;
+  color: rgb(26 162 162 / var(--tw-text-opacity));
+}
+
 .text-\[\#27a121\] {
   --tw-text-opacity: 1;
   color: rgb(39 161 33 / var(--tw-text-opacity));
@@ -686,11 +691,6 @@ video {
 .text-custom-green {
   --tw-text-opacity: 1;
   color: rgb(39 161 33 / var(--tw-text-opacity));
-}
-
-.text-\[\#1aa2a2\] {
-  --tw-text-opacity: 1;
-  color: rgb(26 162 162 / var(--tw-text-opacity));
 }
 
 .underline {
