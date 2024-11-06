@@ -11,6 +11,11 @@ module.exports = {
         "custom-green": "#27a121",
         "custom-shadow": "#1e8c15",
       },
+
+      animation: {
+        'spin-slow': 'spin 10s linear infinite',
+      },
+    
     },
   },
   plugins: [],
