@@ -667,6 +667,26 @@ video {
   min-height: 50vh;
 }
 
+.min-h-\[25vh\] {
+  min-height: 25vh;
+}
+
+.min-h-\[35vh\] {
+  min-height: 35vh;
+}
+
+.min-h-\[15vh\] {
+  min-height: 15vh;
+}
+
+.min-h-\[18h\] {
+  min-height: 18h;
+}
+
+.min-h-\[18vh\] {
+  min-height: 18vh;
+}
+
 .w-32 {
   width: 8rem;
 }
