@@ -679,6 +679,10 @@ video {
   height: 35px;
 }
 
+.max-h-\[18vh\] {
+  max-height: 18vh;
+}
+
 .min-h-\[30vh\] {
   min-height: 30vh;
 }
@@ -709,6 +713,10 @@ video {
 
 .min-h-\[18vh\] {
   min-height: 18vh;
+}
+
+.min-h-\[\] {
+  min-height: ;
 }
 
 .w-32 {
