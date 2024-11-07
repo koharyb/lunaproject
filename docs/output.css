@@ -659,6 +659,14 @@ video {
   min-height: 30vh;
 }
 
+.min-h-\[45vh\] {
+  min-height: 45vh;
+}
+
+.min-h-\[50vh\] {
+  min-height: 50vh;
+}
+
 .w-32 {
   width: 8rem;
 }
@@ -705,6 +713,34 @@ video {
 
 .w-\[35\] {
   width: 35;
+}
+
+.max-w-\[10vh\] {
+  max-width: 10vh;
+}
+
+.max-w-\[15vh\] {
+  max-width: 15vh;
+}
+
+.max-w-\[20vh\] {
+  max-width: 20vh;
+}
+
+.max-w-\[30vh\] {
+  max-width: 30vh;
+}
+
+.max-w-\[35vh\] {
+  max-width: 35vh;
+}
+
+.max-w-\[45vh\] {
+  max-width: 45vh;
+}
+
+.max-w-\[50vh\] {
+  max-width: 50vh;
 }
 
 @keyframes spin {
@@ -918,6 +954,14 @@ video {
     min-height: 15svh;
   }
 
+  .sm\:min-h-\[15vh\] {
+    min-height: 15vh;
+  }
+
+  .sm\:min-h-\[30vh\] {
+    min-height: 30vh;
+  }
+
   .sm\:w-\[50px\] {
     width: 50px;
   }
@@ -942,6 +986,10 @@ video {
 
   .md\:w-\[75px\] {
     width: 75px;
+  }
+
+  .md\:max-w-none {
+    max-width: none;
   }
 
   .md\:border-\[8px\] {
@@ -973,6 +1021,14 @@ video {
 
   .xl\:h-\[150px\] {
     height: 150px;
+  }
+
+  .xl\:min-h-\[\] {
+    min-height: ;
+  }
+
+  .xl\:min-h-\[30vh\] {
+    min-height: 30vh;
   }
 
   .xl\:w-\[150px\] {
