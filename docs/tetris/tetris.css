@@ -37,3 +37,15 @@
     gap: 20px;
 
 }
+
+.main-container { 
+    margin-left: 100vh;
+}
+
+body { 
+    background-color: black;
+}
+
+.text { 
+    color: aqua;
+}
